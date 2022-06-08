@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAAAAAAD/X/XwVQAA8FVVVV9dAADw9f9f9f8AAF9VVVUlUv8AX/X/XyVS/yBSVVVVJfIPIFJVVVUl8g8iX/X/XyVS/yJfVVVVJVL/AvD1/1/1/wAA8FVVVV9dAAAA/1/18FUAAAAA8A8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Golden knight"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
